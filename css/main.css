@@ -41,8 +41,6 @@ img {
     width: 100%;
     height: 100vh;
 
-    /* background-color: #556983; */
-    /* background-image: url("./../img/header/header-bg3.jpeg"); */
     background-size: cover;
     background-position: center;
 }
@@ -128,7 +126,6 @@ img {
     color: rgb(39, 91, 236);
 }
 
-/* background-color: aquamarine; */ /* background-color: blueviolet; */
 .card:last-child, .card:nth-last-child(2)  {
     margin: 0;
 }
